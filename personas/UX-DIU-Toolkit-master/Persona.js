@@ -56,7 +56,7 @@ angular.module("angular", [])
 					{ Name: "Negociación", Value: 4 },
 					{ Name: "Organización del tiempo", Value: 2 }
 				], 
-                Contextos: "Lleva un tiempo agotado y quiere desconectar. Le gustaría dar una sorpresa a su novia para las vacaciones",  
+                Contextos: "Le gustaría darle una sorpresa a su novia por su cumpleaños junto con sus amigas y amigos	",  
 				PreferredChannels: [
 					{ Name: "Online & Social Media", Value: 5 },
 					{ Name: "Influencers", Value: 4 },
@@ -76,28 +76,28 @@ angular.module("angular", [])
 				Name: "Luisa Marquéz Martín",
 				Photo: "woman.png",
 				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Age: 47,
+				Occupation: "Inversiones en ladrillo en diversos paises",
+				Family: "Vive con su marido y sus dos hijas. Pero aún tiene a su madre.",
+				Location: "Reside en Estados Unidos",
+				Character: "Fuerte, desconficada y antisocial.",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Desea escalar sus inversiones realizadas en ladrillo", "Le enncantaría hacer el PER para poder llevar barcos de gran escala", "Quiere seguir viviendo junto su familia felizmente"],
+				Frustrations: ["A pesar de que tiene una buena vida gracias a la herencia que le dejó su padre y de su buena administracion de dicho dinero; desde siempre había soñado con ser azafata de vuelo, pero debido a las facilidades que le otorgó el dinero, dejo de lado los estudios", "También le hubiera gustado llegar lejos a nivel deportivo, ella se dedicaba al tenis a nivel profesional peroi debido a una lesión en el hombre, se tuvo que retirar"],
+				Bio: "Luisa es una mujer cuyo padre era CEO de una de las multinacionales, dedicadas a la informática, más grandes del mundo. Pero a ella no le llenaba el tema de la informática y al ser hija unica, su padre antes de fallecer decidió vender la empresa por una gran cantidad de dinero. En el testamento repartió dicho dinero entre Luisa y su madre. Y ella, que en ese momento se acababa de casar con su marido, especializado en Arquitectura/Ingeniería Civil; le animó a que entre los dos, ella con su capital y el con sus conocimientos en arquitectura, junto con un máster en dirección de empresas, invirtieran en ladrillo.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "Finanzas", Value: 5 },
+					{ Name: "Arquitectura", Value: 2 },
+					{ Name: "RRSS", Value: 4 },
+					{ Name: "Diurección de empresas", Value: 4 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Ambos, marido y mujer, llevan un tiempo de mucho trabajo analizando diferentes edificios en los que invertir; además han venido a España para solucionar otros problemas sobre pisos acupados. Por lo tanto se encuentran desgastados y saturados en todos los aspectos y al ver un anuncio sobre paseos en barco decidieron reservar uno de los barcos más grandes y lujosos de la empresa para relajarse y pensar con claridad cada una de las decisiones que denbian tomar para sacar adelante sus negocios.	" ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
 					{ Name: "Online & Social Media", Value: 2 },
