@@ -94,7 +94,7 @@ angular.module("angular", [])
 					{ Name: "Finanzas", Value: 5 },
 					{ Name: "Arquitectura", Value: 2 },
 					{ Name: "RRSS", Value: 4 },
-					{ Name: "Diurección de empresas", Value: 4 }
+					{ Name: "Dirección de empresas", Value: 4 }
 					
 				], 
                 Contextos:   "Ambos, marido y mujer, llevan un tiempo de mucho trabajo analizando diferentes edificios en los que invertir; además han venido a España para solucionar otros problemas sobre pisos acupados. Por lo tanto se encuentran desgastados y saturados en todos los aspectos y al ver un anuncio sobre paseos en barco decidieron reservar uno de los barcos más grandes y lujosos de la empresa para relajarse y pensar con claridad cada una de las decisiones que denbian tomar para sacar adelante sus negocios.	" ,
